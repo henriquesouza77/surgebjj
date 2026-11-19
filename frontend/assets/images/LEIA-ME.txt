@@ -1,0 +1,15 @@
+SURGE | Kit de identidade visual para Instagram e protótipos
+
+ORIGEM: símbolo Flow e logo horizontal extraídos diretamente dos arquivos do pré-site SURGE.
+
+ARQUIVOS: PNGs em alta resolução, transparentes nas versões de logo; quadrados com fundo para foto de perfil.
+
+01_SIMBOLO_FLOW: símbolo isolado original do site.
+02_LOGO_HORIZONTAL: logo horizontal original (símbolo + SURGE).
+03_SURGE_TIPOGRAFIA: apenas o nome com tipografia do conceito do site.
+04_LOGO_VERTICAL: composição vertical adicional do mesmo símbolo e nome.
+PERFIL_INSTAGRAM: opções 1080 × 1080.
+
+CORES: azul-marinho #071B38, azul esportivo #174B91, preto #10151C e branco #FFFFFF.
+
+ATENÇÃO: estas são exportações do design do protótipo; logotipos vistos em mockups gerados podem divergir em pequenos detalhes. Antes de bordar, imprimir DTF ou fabricar, feche uma arte vetorial definitiva com o mesmo desenho e aprove as provas. Os arquivos de PNG são adequados para posts e prévias, não substituem um arquivo mestre de produção.
